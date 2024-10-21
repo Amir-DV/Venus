@@ -17,3 +17,6 @@ To get started with Venus Music, simply use the `/setup` command, which will cre
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact Me
+Feel free to reach out on Discord: [Iviolet](https://discordapp.com/users/856956452740792320) 💬
